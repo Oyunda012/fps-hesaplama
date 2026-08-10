@@ -1,0 +1,17 @@
+{
+  "name": "Performans Konsolu AI",
+  "short_name": "FPS Konsolu",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#060b11",
+  "theme_color": "#071018",
+  "description": "Bilgisayar oyunları için FPS ve oynanabilirlik analiz uygulaması.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
